@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-13&theme=algolia)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav-13)](https://github.com/anuraghazra/github-readme-stats)
-
-
